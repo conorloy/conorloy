@@ -3,7 +3,9 @@
 
 About me:
 
-- 🔭 I’m currently working on exploring the use of circulating nucleic acids as diagnostic tools
-- 🌱 I’m currently learning how to analyze single cell data
-- 📫 How to reach me: cjl332@cornell.edu
-- 😄 Pronouns: he/his
+- 🐻 Graduate student in the (De Vlaminck Lab)[https://devlaminck.bme.cornell.edu] at Cornell University
+- 🔬 Studying ciruclating nucleic acids
+- 🌱 Also learning how to analyze single cell data
+- 📫 email: cjl332@cornell.edu
+- 🐦 Twitter: @LoyConor
+- 👤 LinkedIn: https://www.linkedin.com/in/conor-loy-b57887114/
